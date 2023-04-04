@@ -57,10 +57,15 @@ ________________________________________________________________________________
 You can support the business in various ways including and not limited to : 
 
    1. the marketing department need your help to identify the following :
+   
         a. which products to feature in the next advertising campaigns and promotions?
+        
         b. Which brands are customers most loyal to?
+        
         c. Who is the most valuable customers based on their purchase history.
+        
         d. Are there any price trends for a particular product over time?
+        
    2. Define a KPI that measures customer loyalty from the data.
    3. Design a sample recommendation engine using association analysis, and what metrics would 
        you use to evaluate its performance?
