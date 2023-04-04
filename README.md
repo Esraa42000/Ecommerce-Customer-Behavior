@@ -9,14 +9,14 @@ management systems, among others. The industry has seen tremendous growth in rec
 by advancements in technology, increasing consumer demand for convenience and flexibility.
 
 
-##Overview
+###Overview
 
 This file contains behavior data for two months (October and November 2019) from a medium 
 cosmetics online store hosted by REES46 niche-specific personalization engine Platform. Each row in the 
 file represents an event. All events are related to products and users. Each event is like many_to-many 
 relation between products and users. A session can have multiple purchase events if it's a single order.
 
-##File structure
+###File structure
 
 event_time:  Time when event happened at (in UTC).
 _____________________________________________________________________________________
@@ -51,7 +51,7 @@ time user come back to online store from a long pause.
 
 _________________________________________________________________________________________________
 
-##Business Requirements 
+###Business Requirements 
 
 
 You can support the business in various ways including and not limited to : 
@@ -65,7 +65,7 @@ You can support the business in various ways including and not limited to :
    3. Design a sample recommendation engine using association analysis, and what metrics would 
        you use to evaluate its performance?
 
-##Deliverable Layout
+###Deliverable Layout
 
 You are expected to deliver your key insights and recommendation in the form of a presentation that 
 covers the following aspects – when applicable -: 
