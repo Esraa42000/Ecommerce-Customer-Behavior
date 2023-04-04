@@ -9,7 +9,7 @@ management systems, among others. The industry has seen tremendous growth in rec
 by advancements in technology, increasing consumer demand for convenience and flexibility.
 
 
-###Overview
+### Overview
 
 This file contains behavior data for two months (October and November 2019) from a medium 
 cosmetics online store hosted by REES46 niche-specific personalization engine Platform. Each row in the 
